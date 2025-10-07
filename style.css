@@ -1,0 +1,111 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: hsl(217, 54%, 11%);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.container {
+    font-family: "Outfit", sans-serif;
+    background-color: hsl(216, 50%, 16%);
+    box-shadow: 8px 8px 0 solid black;
+    width: 350px;
+    max-width: 100%;
+    border-radius: 20px;
+    padding: 25px;
+    margin-bottom: 20px;
+}
+
+.kocka {
+    display: block;
+    margin: 0 auto 20px auto;
+    border-radius: 20px;
+    max-width: 100%;
+    height: auto;
+
+}
+
+.equilibrium h1 {
+    color: hsl(0, 0%, 100%);
+    padding-bottom: 10px;
+}
+
+h1 {
+    margin-bottom: 5px;
+}
+
+.text {
+    color: hsl(215, 51%, 70%);
+    margin-bottom: 20px;
+    font-weight: 200;
+}
+
+.eth {
+    margin-bottom: 30px;
+    display: inline-flex;
+}
+
+.eth-text {
+    color: hsl(178, 100%, 50%);
+}
+
+.time {
+    color: hsl(215, 51%, 70%);
+    padding-left: 120px;
+}
+
+.icon-pic {
+    display: inline-flex;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.pic-jules {
+    border: 2px solid white;
+    border-radius: 50px;
+}
+
+.jules {
+    padding-left: 10px;
+}
+
+.plavo {
+    color:hsl(215, 51%, 70%);
+    font-weight: 200;
+}
+
+.bijelo {
+    color: hsl(0, 0%, 100%);
+    font-weight: 200;
+}
+
+.attribution {
+    color: white;
+}
+
+.line {
+  border: none;
+  border-top: 1px solid hsl(215, 32%, 27%);
+  width: 100%;
+}
+
+.eth-pic {
+    margin-right: 5px;
+}
+
+.time-pic {
+    margin-right: 5px;
+}
+
+
+
+
+
